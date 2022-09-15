@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.37083333333333335" />
+        <entry key="../../AndroidSDK/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.34427083333333336" />
+        <entry key="../../AndroidSDK/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.34427083333333336" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3296875" />
+        <entry key="core/src/main/res/drawable/base_ic_toolbar_white.xml" value="0.256" />
+        <entry key="core/src/main/res/drawable/button.xml" value="0.25" />
+        <entry key="core/src/main/res/drawable/ic_search_white_24dp.xml" value="0.256" />
+        <entry key="core/src/main/res/drawable/seek_line.xml" value="0.257" />
+        <entry key="core/src/main/res/drawable/seek_thumb.xml" value="0.257" />
+        <entry key="core/src/main/res/layout/custom_title.xml" value="0.34427083333333336" />
+        <entry key="core/src/main/res/layout/document_activity.xml" value="0.34427083333333336" />
+        <entry key="core/src/main/res/menu/layout_menu.xml" value="0.34427083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
