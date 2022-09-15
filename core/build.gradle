@@ -2,6 +2,9 @@ plugins {
     id 'com.android.library'
     id 'org.jetbrains.kotlin.android'
 }
+apply plugin: 'com.github.dcendents.android-maven'
+
+group = 'com.github.hetao091'
 
 android {
     compileSdk 30
@@ -31,15 +34,8 @@ android {
         jvmTarget = '1.8'
     }
 
-    sourceSets {
-        main {
-            jniLibs.srcDirs = ['libs']
-        }
-    }
+
 }
-
-
-
 
 dependencies {
 
